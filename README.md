@@ -1,4 +1,4 @@
-# Songs_Database_Analysis
+# Songs_Database_Analysis_SQL
 
 Obtained the dataset: Acquired a music store dataset containing information such as Details and Database setup: Created a relational database using SQL to store the music store dataset.
  
